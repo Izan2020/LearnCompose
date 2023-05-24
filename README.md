@@ -17,3 +17,13 @@ This knowledge proved invaluable in creating seamless transitions and enabling u
 
 Overall, this project served as a comprehensive learning journey, enabling me to grasp the fundamentals of Jetpack Compose,
 practice UI development, understand state management with ViewModel, and implement effective navigation and routing techniques.
+
+## Application Implementation
+
+### 📷 Snapshots
+- Youtube Interface Implementation :
+![foto](https://cdn.discordapp.com/attachments/1110006269571514438/1110843293819998259/image.png)
+![foto](https://cdn.discordapp.com/attachments/1110006269571514438/1110865634780254238/image.png)
+
+- Gofood Interface Implementation :
+![foto](https://cdn.discordapp.com/attachments/1110006269571514438/1110866029313273916/image.png)
